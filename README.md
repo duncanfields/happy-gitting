@@ -1,5 +1,8 @@
 # happy-gitting
+## All gitters should be **happy!**
 
+... and play some soccer!
+![kangaroo w/football](football-kangaroo.jpg)
 ## How to use this
 
 Try out git and all that
