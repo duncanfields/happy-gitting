@@ -1,4 +1,5 @@
 # happy-gitting
+This is a repo for **only me** to play with git
 ## All gitters should be **happy!**
 
 ... and do some bodybuilding!
